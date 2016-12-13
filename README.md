@@ -40,3 +40,5 @@ p, a { font-size: 1.2rem; }
 /* Custom, iPhone Retina */ 
 @media only screen and (max-width: 320px) { html { font-size: 9px; } }
 ```
+
+Shout outs to [DevTips](https://www.youtube.com/watch?v=UHf3aQz50jQ) for his awesome explanation
