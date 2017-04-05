@@ -1,6 +1,8 @@
 # rem-responsive-typography
 REM Responsive Typography - example /  cheatsheet
 
+Example here http://codepen.io/anon/pen/BWEQgb
+
 ```css
 /*--------------------------------------------------------------
 >>>> LETS HANDLE TYPOGRAPHY BETTER:
